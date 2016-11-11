@@ -3,6 +3,7 @@
 **/.ipynb_checkpoints
 **/*.log
 repo/src/python/lib/
+!/resources
 !/notebooks
 !/repo
 !/ansible
