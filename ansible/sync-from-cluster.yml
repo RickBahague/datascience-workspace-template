@@ -1,0 +1,18 @@
+---
+- name: download data and notebooks from cluster to local
+  hosts: cluster
+  remote_user: <CLUSTER_USER>
+
+  vars:
+    remote_notebook_path: REMOTE_NOTEBOK
+    local_notebook_path: LOCAL_PATH_FOR_DOWNLOADED_REMOTE_NOTEBOOK
+    remote_data_path: REMOTE_DATA
+    local_data_path: LOCAL_DATA
+    debug_mode: true
+
+  tasks:
+    - name: "get python notebooks from remote"
+      synchronize: src={{remote_notebook_path}}/ dest={{local_notebook_path}}/ recursive=yes mode=pull rsync_timeout=60
+
+    - name: "get output data from remote"
+      synchronize: src={{remote_data_path}}/ dest={{local_data_path}}/ recursive=yes mode=pull

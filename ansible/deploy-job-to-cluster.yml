@@ -1,0 +1,34 @@
+---
+- name: deploy pyspark script
+  hosts: cluster
+  remote_user: <CLUSTER_USER>
+
+  vars:
+    source_path: <LOCAL_SOURCE_PATH>
+    dest_path: <REMOTE DESTINATION PATH>
+    job_script: <JOB_SCRIPT.py>
+    executors: <NUMBER_OF_EXECUTORS>
+    pipe_task: <TASK_TO_BE_RUN_USING_TRINING_PYSPARK_TEMPLATE>
+    debug_mode: false
+    hdfs_output_path: <HDFS_PATH_OF_OUTPUTS>
+    queue: <cluster queue to be used>
+
+  tasks:
+    - name: "clean-up path if TEST"
+      shell: "hdfs dfs -rm -r {{hdfs_output_path}}"
+      when: debug_mode == true
+
+    - name: "transfer python scripts: {{job_script}}"
+      copy: src={{source_path}}/repo/src/python/{{job_script}} dest={{dest_path}}/python/{{job_script}}
+
+    - name: "transfer runner"
+      copy: src={{source_path}}/repo/src/runners/runner.sh dest={{dest_path}}/python/runner.sh mode=ug+rx
+
+    - name: "spark submit: ./runner.sh {{job_script}} {{queue}} EXECUTORS: {{executors}} PIPELINE_TASK: {{pipe_task}} "
+      shell: "{{dest_path}}/python/runner.sh {{job_script}} {{queue}} {{executors}} {{pipe_task}}"
+      args:
+        chdir: "{{dest_path}}/python"
+        executable: /bin/bash
+
+    - name: "Wait for log: {{job_script}}.{{queue}}.log"
+      wait_for: path = {{dest_path}}/python/{{job_script}}.{{queue}}.log timeout=15

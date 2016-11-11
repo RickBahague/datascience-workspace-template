@@ -1,0 +1,817 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"top_l",
+				"top_lacci_prov_smart"
+			],
+			[
+				"sms_mo",
+				"sms_monnet"
+			],
+			[
+				"msisdn",
+				"msisdn_2016a"
+			],
+			[
+				"c201",
+				"c2016b"
+			],
+			[
+				"hourly",
+				"hourly_regularity"
+			],
+			[
+				"prod",
+				"products_df"
+			],
+			[
+				"pr",
+				"products_ratings"
+			],
+			[
+				"users",
+				"users_df"
+			],
+			[
+				"product_",
+				"products_ratings"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"v_fo",
+				"v_fonnet_duration"
+			],
+			[
+				"v_mo",
+				"v_moffnet_hits"
+			],
+			[
+				"voice_",
+				"voice_offnet_friends"
+			],
+			[
+				"voice",
+				"voice_onnet_friends"
+			],
+			[
+				"data_cl",
+				"data_cluster2016b"
+			],
+			[
+				"msis",
+				"msisdns"
+			],
+			[
+				"date",
+				"date_break"
+			],
+			[
+				"temp",
+				"temp_start"
+			],
+			[
+				"end",
+				"endNum"
+			],
+			[
+				"ex",
+				"executor_memory"
+			],
+			[
+				"execu",
+				"executor_cores"
+			],
+			[
+				"memor",
+				"memory_needed"
+			],
+			[
+				"executor",
+				"executor_memory"
+			],
+			[
+				"am",
+				"am_memory"
+			],
+			[
+				"memory",
+				"memoryOverhead"
+			],
+			[
+				"c20",
+				"c2016"
+			],
+			[
+				"whitelist",
+				"whitelist_df"
+			],
+			[
+				"ms",
+				"msisdn2016"
+			],
+			[
+				"df",
+				"df2016"
+			],
+			[
+				"d2",
+				"d2016"
+			],
+			[
+				"retailer",
+				"retailer_number"
+			],
+			[
+				"te",
+				"tenure_merged"
+			],
+			[
+				"circl",
+				"circle2015"
+			],
+			[
+				"agg",
+				"aggusage2015"
+			],
+			[
+				"parquet",
+				"parquetFile"
+			],
+			[
+				"fo",
+				"fonnet"
+			],
+			[
+				"im",
+				"imei0"
+			],
+			[
+				"mis",
+				"msisdn0"
+			],
+			[
+				"smar",
+				"smartbroadband"
+			],
+			[
+				"sma",
+				"smartbroadband"
+			],
+			[
+				"smart",
+				"smartprepaid"
+			],
+			[
+				"bra",
+				"brands"
+			],
+			[
+				"ba",
+				"brandkeydesc"
+			],
+			[
+				"sms",
+				"sms_df"
+			],
+			[
+				"bran",
+				"brandkeydesc"
+			],
+			[
+				"br",
+				"brands"
+			],
+			[
+				"msi",
+				"msisdn"
+			],
+			[
+				"mar",
+				"matcher1"
+			],
+			[
+				"group",
+				"groupBy"
+			],
+			[
+				"to",
+				"topup_hits"
+			],
+			[
+				"parqe",
+				"parquetFile"
+			],
+			[
+				"with",
+				"with_brands_filled"
+			],
+			[
+				"topup_",
+				"topup_amount"
+			],
+			[
+				"par",
+				"parquetFile"
+			],
+			[
+				"ch",
+				"channels_df"
+			],
+			[
+				"purch",
+				"purchase_product"
+			],
+			[
+				"purcha",
+				"purchases_df"
+			],
+			[
+				"pur",
+				"purchases_df"
+			],
+			[
+				"select",
+				"selectExpr"
+			],
+			[
+				"selec",
+				"selectExpr"
+			],
+			[
+				"in",
+				"initializer"
+			],
+			[
+				"sql",
+				"sqlContext"
+			],
+			[
+				"ac",
+				"active_w_week"
+			],
+			[
+				"vo",
+				"voice_df"
+			],
+			[
+				"voi",
+				"voice_w_week"
+			],
+			[
+				"sms_",
+				"sms_w_week"
+			],
+			[
+				"voce",
+				"voice_w_week"
+			],
+			[
+				"join",
+				"joinAll"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "repo/src/python/Kawalan.py",
+			"settings":
+			{
+				"buffer_size": 7014,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/spp/FE.DetailedVoice.py",
+			"settings":
+			{
+				"buffer_size": 201827,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 138.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/talasrtbahague/DatascienceVM/Kawalan",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/notebooks/local",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src/python",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src/python/lib",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src/runners",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/resources"
+	],
+	"file_history":
+	[
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/main/scala/Build.Cluster.Rerun.Model.scala",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src/python/Kawalan.py",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src/python/lib/TriningLib.py",
+		"/Users/talasrtbahague/SparkleShare/Medium Posts/Exploring Knowledge Repo",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/Test/TestData.csv",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/notebooks/local/Kawalan - Detection 6.ipynb",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/kb/testkb.ipynb",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/ansible/deploy-job-to-talino.yml",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/ansible/sync-from-ds-kawalan.yml",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src/runners/runner.sh",
+		"/Users/talasrtbahague/Downloads/Kawalan+-+Detection+5.py",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src/python/Usage.Hourly.py",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/repo/src/python/TriningLib.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Test.Ansible.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/spp/PySpark.Job.Template.py",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/ansible/hosts",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Sun.Smart.Active.Overlap.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/ansible/deploy-job-to-talino.yml",
+		"/Users/talasrtbahague/DatascienceVM/Kawalan/ansible/ansible.cfg",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/SubcosForAnalysis2.txt",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/P.LocationPerHourMT.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/BilledUsageDataC.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/Construct.Features.SMS.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Sun.Dominant.Location.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Sun.Regular.Location.Mar.May.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Sun.Regular.Location.Dec.Feb.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/ActiveSubs.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Sun.Regular.Location.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/SubcosForAnalysis.txt",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Smart.Dominant.Location.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/ansible/sync-from-ds-sun-rops.yml",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/ansible/hosts",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/runner.sh",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/Lib.EloadAnalysis.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.ToCsv.py",
+		"/Users/talasrtbahague/DatascienceVM/ExternalLibraries/Karding-Repo/src/python/TheSources/TheSources2.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/runners/runner.sh",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/Analyze.EloadDataAnalyzerUsingTrxLogs.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/Analyze.EloadDataReconcile.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/Analyze.EloadDataRetailersUsingAuditLogs.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetATXTrxLogs.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetClsTrxLogs.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetDataRetailers.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetMWTRFAuditLogs.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetSmartRecharge.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetSmartUsage.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetTNTRecharge.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetTNTUsage.py",
+		"/Users/talasrtbahague/DatascienceVM/Eload Analysis/src/IO.GetURMData.py",
+		"/Users/talasrtbahague/DatascienceVM/ExternalLibraries/Karding-Repo/src/python/TheSources/TheSources.py",
+		"/Users/talasrtbahague/DatascienceVM/ThoughtLeadership/Test.ipynb",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/Feature.Combiner.Rerun.Shortcut.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/SunDataSets.data",
+		"/Users/talasrtbahague/DatascienceVM/ThoughtLeadership/PythonPH/infinitewell.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/runners/spark-1.3.1.properties",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/spp/runner.sh",
+		"/Users/talasrtbahague/Downloads/legend_auto.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/P.LocationPerHourWed.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/P.LocationRegularityAllRerun.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/airflow/sunrops/test_airflow.py",
+		"/Users/talasrtbahague/airflow/airflow.cfg",
+		"/Users/talasrtbahague/airflow/logs/SunROPS/print_date/2016-09-19T00:00:00",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/airflow/dags/test_airflow.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/airflow/test_airflow.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/ansible/sync-from-ds.yml",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/ansible/sample-deploy-job.yml",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/ansible/ansible.cfg",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/ansible/deploy-job.yml",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/ansible/sync-job.yml",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/runner.sh",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/deploy/deploy-job.yml",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/ClusterAssignment.Rerun.Shortcut2016b.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/deploy/hosts",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/runner-feature-construct-rerun5sh",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/deploy/sample-deploy-job.yml",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/deploy/ansible.cfg",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/deploy/deploy-job.retry",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Sun.Aggregates.Usage.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/runner-mrs-aggregator.sh",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/runner.sh",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/deploy/group_vars/all.yaml",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/runner-onetime.sh",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/runner-onetime-a.sh",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/runner-mrs.sh",
+		"/Users/talasrtbahague/DatascienceVM/Ansible/examples/ansible.cfg",
+		"/Users/talasrtbahague/DatascienceVM/Ansible/examples/DOCUMENTATION.yml",
+		"/Users/talasrtbahague/DatascienceVM/Ansible/examples/playbooks/README.md",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/runner-feature-construct-monthly.sh",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/FE.Sun.Usage.Topup.Aggregates.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/TopupProducts.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/Usage_SMS_2016.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/Sun.Dominant.Location.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/SubCosID_Class.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/BilledUsageData.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/ProductsAvailmentMigration.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/FE.Usage.Topup.Aggregates.py",
+		"/Users/talasrtbahague/Desktop/ref_sun_laccis.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/Feature.Combiner.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/test/Construct.Features.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/TopUpSummarySubCosids.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/PointersSunAnalysis.txt",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/Usage_Data_2016.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/Usage_Voice_2016.csv",
+		"/Users/talasrtbahague/DatascienceVM/HomeClusters/src/python/Analyze.SequentialMiningPaths.py",
+		"/Users/talasrtbahague/DatascienceVM/DCT-PredictiveOffer/repo/src/main/scala/Build.Model.scala",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/January_2016_SubcosidTopups.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/SubCosidTopups.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/channels_in_purchase.csv",
+		"/Users/talasrtbahague/DatascienceVM/DSdevMount/workspaces/rtbahague/ROPs/data/SunDataAnalysis/channels_ref_concat.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/ProductsList.csv",
+		"/Users/talasrtbahague/DatascienceVM/Airflow/dags/etl_job_run_test.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/ForMarkOptIn.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/Runners.Talino",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/ETL.MRS.All.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/SunDataAnalysis/sun-summary.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/sun/BilledUsageCircle3.py",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/mrssampleHashed.csv",
+		"/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/data/mrssample.csv",
+		"/Users/talasrtbahague/Downloads/mrssample.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/Top Routes - ALL_B.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/SpecificsPivoted.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/Sheet20.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/Specifics.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/Sheet 18.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/Sheet 18b.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/Sheet 18c.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/Sheet20b.csv",
+		"/Users/talasrtbahague/DatascienceVM/CebuPac/data/R8TripsSummaryAgg.csv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\ ",
+			"\\   ",
+			"\\ ",
+			"\\    ",
+			"\\\\n",
+			"  ",
+			"finished",
+			"sls35",
+			"'",
+			"\\\\",
+			"'",
+			"\\'",
+			"\\]",
+			"\\[",
+			"[",
+			"write",
+			"-rw-r--r--   3 datascience datascience          0 2016-09-14 11:43 ",
+			"-rw-r--r--   3 datascience datascience         ",
+			"tty",
+			"ansible_ssh_user",
+			"ey",
+			"\\ ",
+			"~1020",
+			"/data",
+			"_SUCCESS",
+			"\\t",
+			" to ",
+			"\\t",
+			"metro manila to leyte",
+			"metro manila",
+			"\\t",
+			" to ",
+			"\\t",
+			" to ",
+			"008",
+			" to ",
+			"\\t",
+			"Traveler",
+			"Trips",
+			"\\t",
+			"\\\\t",
+			"\\n",
+			"DATA",
+			"column\\(\\\"cast\\(substr\\(hour_t\\,0\\,2\\) as INT\\)\\\"\\)",
+			"groupBy\\(\\\"cast\\(substr\\(hour_t\\,0\\,2\\) as INT\\)\\\"\\)",
+			"\"\\*\"\\,",
+			"\\(hour_ts",
+			"hour_t",
+			"\"cast\\(substr\\(hour_t,0,2\\) as INT\\)\"",
+			"\"cast(substr(hour_t,0,2) as INT)\"",
+			"cast(substr(hour_t,0,2) as INT)",
+			"\"/data/datascience/rtbahague/rops/datausagepattern2016b/mrs/2016/categoriesam",
+			"datausagepattern2016b",
+			"mail",
+			"2015",
+			"base_path",
+			"top_lacci_per_min_all",
+			"groupBykey",
+			"location_details_per_min",
+			"initializer",
+			"unlifb",
+			"\\)",
+			"AVG\\(",
+			"AVG(",
+			"unli fb",
+			"voice",
+			"cluster",
+			"month",
+			"/user/datascience/rtbahague/rops/d",
+			"\\'",
+			"\\\\n",
+			"\\n",
+			"\\\\n",
+			"\\n",
+			"\\\\n",
+			"\\n",
+			"),",
+			"total_hits=",
+			"product_name=u",
+			"Row(prod_id=u",
+			"Row(prod_id=",
+			"merged/all",
+			"907",
+			"run4",
+			"voice",
+			"user",
+			"rerun2",
+			"run3",
+			"run2",
+			"df",
+			"temp",
+			"tenure",
+			"voice",
+			"/user/datascience/rtbahague/rops/d/devices/brands",
+			"get_min_monthly_topups",
+			"BucketVolPht1Fbc",
+			"DataVolFBC",
+			")",
+			"Row(voucher=u",
+			")",
+			"Row(voucher=u",
+			"382",
+			"38235",
+			"946",
+			"NAN",
+			"nan",
+			"8001910",
+			"filter",
+			"trend",
+			"get_min_monthly_topups",
+			"aggtopups",
+			":",
+			",",
+			"-",
+			"\"",
+			"shuff",
+			"karding",
+			"kardin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\|",
+			"\\ ",
+			"\\|",
+			"\\ ",
+			"\\\\r",
+			"\\\\n",
+			"",
+			"|",
+			"\"/data",
+			"",
+			"|",
+			"\\t",
+			"|",
+			"','",
+			"column\\(\\\"hour_ts\\\"\\)",
+			"groupBy\\(\\\"hour_ts\\\"\\)",
+			"\"*\"\\,\"cast\\(substr\\(hour_t,0,2\\) as INT\\) as hour_ts\"\\,",
+			"hour_t",
+			"hour_ts",
+			"\"hour_t\"",
+			"hour_t",
+			"output_path+\"",
+			"datausagepattern2016e",
+			"2016",
+			"",
+			"sms",
+			"/user/datascience/rtbahague/rops/dd",
+			"",
+			"\\n",
+			" \\n",
+			"\\n",
+			"\\\\n",
+			"\\n",
+			"\\r\\n",
+			"",
+			"run00",
+			"sms",
+			"data",
+			"rerun3",
+			"run5",
+			"run4",
+			"run3",
+			"run2/temp",
+			"sms",
+			"",
+			"':",
+			"\",",
+			":\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "repo/src/python/Kawalan.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6013,
+								6013
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2579.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/talasrtbahague/DatascienceVM/RevenueOptimisation/repo/src/python/spp/FE.DetailedVoice.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 201827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197159,
+								197159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 208.0,
+						"translation.y": 877.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Kawalan.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 382.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
